@@ -17,12 +17,9 @@ Visual components and Python
 ## Procedure :
 
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
-
-
 ## Experiment:
 ![image](https://github.com/Ragavan762006/Open-Jacson-Networks/assets/144870714/8d6bd921-a3f8-418f-b9a8-4e9cc619a7d8)
 ![image](https://github.com/Ragavan762006/Open-Jacson-Networks/assets/144870714/b9df4fba-b031-4e9a-b4e5-fb9390862e3b)
-
 
 ## Program
 ```
@@ -64,7 +61,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
-
 ## Output
 ![image](https://github.com/Ragavan762006/Open-Jacson-Networks/assets/144870714/3853d4e8-e26f-418f-8fa5-4e86ceab806e)
 
